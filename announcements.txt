@@ -1,1 +1,2 @@
-new announcement 2
+brandnew announcement
+
